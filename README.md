@@ -1,5 +1,5 @@
 <img src="https://github.com/MahidunNobi/MahidunNobi/blob/main/GitHub-Banner.png" alt="Mahidun GitHub README header image">
-[![Mahidun's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahidunNobi)](https://github.com/MahidunNobi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahidunNobi)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 Here are some ideas to get you started:
 
