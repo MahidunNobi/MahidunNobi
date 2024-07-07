@@ -1,6 +1,5 @@
+<img src="https://github.com/MahidunNobi/MahidunNobi/blob/master/GitHub-Banner.png" alt="Mahidun GitHub README header image">
 ### Hi there 👋
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
