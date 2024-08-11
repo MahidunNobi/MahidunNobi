@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01efd3f02eb05280fa) as a freelance web developer
 - 🔭 I’m currently looking for a full-time remote job
-- 🌱 I’m currently learning Python, SQL, TypeScript
+- 🌱 I’m currently learning Python, SQL
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, Mongoose
