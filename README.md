@@ -17,8 +17,7 @@
 
 <br />
 <p align="center">
-<!--  [![GitHub Streak](https://streak-stats.demolab.com/?user=MahidunNobi)](https://git.io/streak-stats) -->
- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahidunNobi" alt="shakilahmedatik" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MahidunNobi" alt="GitHub Streak" /></a> 
 </p>
 <br>
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
