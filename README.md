@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning LangChain
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, PostGres
+- 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, PostgreSQL
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
