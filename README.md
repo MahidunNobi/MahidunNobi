@@ -5,10 +5,10 @@
 
 - 🔭 I’m currently working at [Upwork](https://www.upwork.com/freelancers/~01efd3f02eb05280fa) as a freelance web developer
 - 🔭 I’m currently looking for a full-time remote job
-- 🌱 I’m currently learning Python, SQL
+- 🌱 I’m currently learning LangChain
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, Mongoose
+- 💬 Ask me about React, TailwindCSS, NextJS, MongoDB, PostGres
 <!-- 📫 How to reach me: ... -->
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
@@ -42,5 +42,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" alt="mongoose" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/>  
 </p><br/>
 
